@@ -10,4 +10,6 @@ body {
 
 .banner {
     background-color: rgb(128, 128, 255);
+    width: 75px;
+    text-align: center;
 }
